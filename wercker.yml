@@ -4,7 +4,7 @@ box:
   ports:
     - $PORT
 
-#Build our application using Maven, just as we always have!
+#Build our application using Maven, just as we always have! new v
 build:
   steps:
     - install-packages:
